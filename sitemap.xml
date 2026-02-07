@@ -7,7 +7,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/my-birthday/
+            http://localhost:8000/2-big-ed/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/3-ferruccio-lamborghini/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
         </loc>
     </url>
     <url>
@@ -17,7 +27,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/birthday-posts/
         </loc>
     </url>
     <url>
